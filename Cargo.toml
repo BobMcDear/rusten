@@ -1,0 +1,13 @@
+[package]
+name = "rusten"
+version = "0.1.0"
+edition = "2021"
+authors = ["Borna Ahmadzadeh borna.ahz@gmail.com"]
+description = "A minimal, didactic implementation of tensors, or multi-dimensional arrays, in Rust."
+license = "MIT"
+repository = "https://github.com/BobMcDear/rusten"
+readme = "README.md"
+
+[lib]
+name = "rusten"
+path = "src/lib.rs"
