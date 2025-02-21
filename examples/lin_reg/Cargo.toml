@@ -1,0 +1,6 @@
+[package]
+name = "lin_reg"
+edition = "2021"
+
+[dependencies]
+rusten = { path = "../../" }
